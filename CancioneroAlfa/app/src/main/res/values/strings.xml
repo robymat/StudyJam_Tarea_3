@@ -1,0 +1,759 @@
+<resources>
+    <string name="app_name">CancioneroAlfa</string>
+    <string name="main.titulo">Cancionero</string>
+    <string name="detalle.titulo">Himno</string>
+    <string name="detalle.tv.nombre">Nombre</string>
+    <string name="detalle.tv.autor">Autor</string>
+    <string name="detalle.tv.canto">Canto</string>
+
+    <string name="main.pk1.titulo">HIMNO NACIONAL DE BOLIVIA</string>
+    <string name="main.pk2.titulo">SALVE HO PATRIA</string>
+    <string name="main.pk3.titulo">HIMNO A LA PAZ</string>
+    <string name="main.pk4.titulo">HIMNO A EL ALTO</string>
+    <string name="main.pk5.titulo">HIMNO A COCHABAMBA</string>
+    <string name="main.pk6.titulo">HIMNO A SANTA CRUZ</string>
+    <string name="main.pk7.titulo">HIMNO A POTOSI</string>
+    <string name="main.pk8.titulo">HIMNO A CHUQUISACA</string>
+    <string name="main.pk9.titulo">HIMNO A ORURO</string>
+    <string name="main.pk10.titulo">HIMNO A TARIJA</string>
+    <string name="main.pk11.titulo">HIMNO A BENI</string>
+    <string name="main.pk12.titulo">HIMNO A PANDO</string>
+    <string name="main.pk13.titulo">HIMNO AL LITORAL</string>
+    <string name="main.pk14.titulo">CANTO A MURILLO</string>
+    <string name="main.pk15.titulo">CANTO A SIMON BOLIVAR</string>
+    <string name="main.pk16.titulo">CANTO A ANTONIO JOSE DE SUCRE</string>
+    <string name="main.pk17.titulo">CANTO A AVAROA</string>
+    <string name="main.pk18.titulo">HIMNO A LA BANDERA</string>
+    <string name="main.pk19.titulo">VIVA MI PATRIA BOLIVIA</string>
+    <string name="main.pk20.titulo">MARCHA A LOS COLORADOS DE BOLIVIA</string>
+    <string name="main.pk21.titulo">MARCHA NAVAL</string>
+    <string name="main.pk22.titulo">HIMNO AL MAESTRO</string>
+    <string name="main.pk23.titulo">HIMNO A LA MADRE</string>
+    <string name="main.pk24.titulo">HIMNO A LAS HEROINAS DE LA CORRONILLA</string>
+    <string name="main.pk25.titulo">HIMNO AL DEPORTISTA</string>
+    <string name="main.pk26.titulo">HIMNO AL TRABAJO</string>
+    <string name="main.pk27.titulo">HIMNO AL EJERCITO BOLIVIANO</string>
+    <string name="main.pk28.titulo">HIMNO A LA FUERZA NAVAL BOLIVIANA</string>
+    <string name="main.pk29.titulo">HIMNO A LA FUERZA AEREA BOLIVIANA</string>
+    <string name="main.pk30.titulo">MELODIAS DE AMERICA</string>
+
+
+    <string name="main.pk1.subtitulo">LETRA: Dr José Ignacio de Sanginés \nMUSICA: Dn Leopoldo Benedetto Vincenti Franti  </string>
+    <string name="main.pk2.subtitulo">LETRA: Dn José Aguirre Achá \nMUSICA: Fray Bernardino Gonzáles </string>
+    <string name="main.pk3.subtitulo">LETRA: Dn Ricardo José Bustamante \nMUSICA: Eloy Salmón </string>
+    <string name="main.pk4.subtitulo">LETRA Y MUSICA: Dn Orlando Rojas Rojas  </string>
+    <string name="main.pk5.subtitulo">LETRA: Dr Benjamín Blanco Unzuella \nMUSICA: Dn Teófilo Vargas Candia </string>
+    <string name="main.pk6.subtitulo">LETRA: Dn Felipe Leonor Rivera \nMUSICA: Dn Gastón Guillaux Humery  </string>
+    <string name="main.pk7.subtitulo">LETRA: Dn Daniel Campos Cortez \nMUSICA: Dn Manuel Romero  </string>
+    <string name="main.pk8.subtitulo">LETRA: Dn Ricardo Mujia \nMUSICA: Eduardo Verdecio Paz  </string>
+    <string name="main.pk9.subtitulo">LETRA: Dn José Encinas Nieto \nMUSICA: My César Achaval Cardenas  </string>
+    <string name="main.pk10.subtitulo">LETRA: Dn Tomas O`Connors \nMUSICA: Juan Di Flori  </string>
+    <string name="main.pk11.subtitulo">LETRA: Prof ALfredo Pereira Lanza \nMUSICA: Dn Rafael Seegher  </string>
+    <string name="main.pk12.subtitulo">LETRA: Dn Walter Fernandez Calvimontes \nMUSICA: Dn Fortunato Uribe </string>
+    <string name="main.pk13.subtitulo">LETRA: Dn Gaston Velazco Carrasco \nMUSICA: Dn Edgardo Otero de la Vega  </string>
+    <string name="main.pk14.subtitulo">LETRA Y MUSICA: Dn Luis Felipe Arce  </string>
+    <string name="main.pk15.subtitulo">LETRA: Dn Clacudio Moreno Palacios \nMUSICA: Dn Zenón Eduardo U.  </string>
+    <string name="main.pk16.subtitulo">LETRA: Dn Jacobo Ramallo \nMUSICA: Dn Marcelino Hidalgo  </string>
+    <string name="main.pk17.subtitulo">LETRA Y MUSICA: Dn Luis Felipe Arce </string>
+    <string name="main.pk18.subtitulo">LETRA: Dn Ricardo Mujia \nMUSICA: Manuel Benavente  </string>
+    <string name="main.pk19.subtitulo">LETRA Y MUSICA: Dn Apolinar Camacho Orellana  </string>
+    <string name="main.pk20.subtitulo">LETRA: Dn Gregorio Reynolds \nMUSICA: Dn Mauricio Mancilla  </string>
+    <string name="main.pk21.subtitulo">LETRA: Dn Gastón Velasco \nMUSICA: Dn Edgardo Otero de la Vega  </string>
+    <string name="main.pk22.subtitulo">LETRA Y MUSICA: Dn Manuel Thorrez Rojas  </string>
+    <string name="main.pk23.subtitulo">LETRA: Dn Roberto Bustamante \nMUSICA: Dn Filomeno Rivero </string>
+    <string name="main.pk24.subtitulo">LETRA: Dn Germán Matienzo \nMUSICA: Dn Adrian Pereyra </string>
+    <string name="main.pk25.subtitulo">LETRA: Dn Federico Nielsen Reyes \nMUSICA: Dn Adrian Patiño Carpio  </string>
+    <string name="main.pk26.subtitulo">LETRA: Manuel Fernandes Julco \nMUSICA: Dn A. Juli  </string>
+    <string name="main.pk27.subtitulo">LETRA Y MUSICA: Ejercito Boliviano  </string>
+    <string name="main.pk28.subtitulo">LETRA: T.N. Luis Tellerina Royo \nMUSICA:Sgto 1ro Pablo Colque Mamani </string>
+    <string name="main.pk29.subtitulo">LETRA: Dn Julio de la Vega Rodriguez \nMUSICA: Dn Gustavo Navarra  </string>
+    <string name="main.pk30.subtitulo">LETRA Y MUSICA: Rodolfo Sciammarella  </string>
+
+    <string name="main.pk1.cante">\nI\n
+Bolivianos, el hado propicio\n
+coronó nuestros votos y anhelo;\n
+es ya libre, ya libre este suelo,\n
+ya cesó su servil condición.\n\n
+Al estruendo marcial que ayer fuera,\n
+y al clamor de la guerra horroroso,\n
+siguen hoy en contraste armonioso,\n
+dulces himnos de paz y de unión.\n\n
+
+<B>Coro</B>:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n\n
+
+II\n
+Loor eterno a los bravos guerreros,\n
+cuyo heroico valor y firmeza\n
+conquistaron las glorias que empieza\n
+hoy Bolivia feliz a gozar.\n\n
+Que sus nombres el mármol y el bronce\n
+a remotas edades transmitan\n
+y en sonoros cantares repitan:\n
+Libertad, libertad, libertad.\n\n
+
+<B>Coro</B>:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n\n
+
+III\n
+Aquí alzó la justicia su trono,\n
+que la vil opresión desconoce,\n
+y en su timbre glorioso se goce\n
+libertad, libertad, libertad.\n\n
+Esta tierra inocente y hermosa\n
+que ha debido a Bolívar su nombre\n
+es la patria feliz donde el hombre\n
+goza el bien de la dicha y la paz.\n\n
+
+<B>Coro</B>:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n\n
+
+IV\n
+Si extranjero poder algún día\n
+sojuzgar a Bolivia intentare,\n
+al destino fatal se prepare\n
+que amenaza a soberbio invasor.\n
+Que los hijos del grande Bolívar\n
+han ya mil y mil veces jurado\n
+morir antes que ver humillado\n
+de la patria el augusto pendón.\n\n
+
+<B>Coro</B>:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n
+</string>
+    <string name="main.pk2.cante">\n\n¡Salve, salve! ¡oh! Tierra feraz, bendecida! \n
+¡Salve, salve! ioh! Patria, fecunda en valor! \n
+Nuestro orgullo es deberte la vida. \n
+Nuestro anhelo, morir por tu honor. \n\n
+Muestra el iris, la enseña que tienes, \n
+en el cielo que diáfano ves; \n
+nieve eterna corona tus sienes \n
+y la selva se extiende a tus pies. \n\n
+Todo es grande en tu seno querido: \n
+la altivez y el cariño al hogar; \n
+vela el cóndor celoso su nido \n
+y defiende su cueva el jaguar. \n\n
+¡Salve, salve! ¡oh! Tierra feraz, bendecida! \n
+¡Salve, salve! ioh! Patria, fecunda en valor! \n
+Nuestro orgullo es deberte la vida. \n
+Nuestro anhelo, morir por tu honor. \n\n
+Tus llanuras, cubiertas de gloria \n
+en quince años de lucha tenaz, \n
+hoy, que otra era comienza en tu historia \n
+dan su fruto a la industria y la paz. \n\n
+La unión que es tu lema, es un hecho, \n
+ya cesó de la suerte el desdén. \n
+La esperanza palpita en el pecho \n
+y se agita el ideal en la sien... \n\n
+¡Salve, salve! ¡oh! Tierra feraz, bendecida! \n
+¡Salve, salve! ioh! Patria, fecunda en valor! \n
+Nuestro orgullo es deberte la vida. \n
+Nuestro anhelo, morir por tu honor. \n\n
+Si atesora La Paz tu civismo, \n
+también Charcas, la culta está en ti; \n
+Cochabamba probó tu  heroísmo; \n
+tu riqueza sin par, Potosí. \n\n
+Pando y Beni tu hermoso futuro; \n
+y te brinda su edén Santa Cruz; \n
+el poder de tus brazos Oruro, \n
+y Tarija, su tipo andaluz. \n\n
+¡Salve, salve! ¡oh! Tierra feraz, bendecida! \n
+¡Salve, salve! ioh! Patria, fecunda en valor! \n
+Nuestro orgullo es deberte la vida. \n
+Nuestro anhelo, morir por tu honor. \n\n
+¡Adelante! gran pueblo, ¡adelante! \n
+tremolando el glorioso pendón, \n
+con que surge ante el mundo triunfante, \n
+de la Patria la hermosa visión. \n\n
+Ni tiranos jamás, ni invasores, \n
+oscurezcan tu gran porvenir, \n
+o, al redoble de alegres tambores, \n
+marcha ¡oh Pueblo! cantando, a morir. \n\n
+¡Salve, salve! ¡oh! Tierra feraz, bendecida! \n
+¡Salve, salve! ioh! Patria, fecunda en valor! \n
+Nuestro orgullo es deberte la vida. \n
+Nuestro anhelo, morir por tu honor. \n
+</string>
+    <string name="main.pk3.cante">\n\nLa Paz que en este día\n
+de julio se engalana,\n
+con timbres de que ufana\n
+recuerda a su esplendor.\n\n
+Patriótica armonía\n
+de pueblos cuya historia,\n
+ligada está en la gloria\n
+de su ínclito valor.\n\n
+Coro:\n
+Saludando de julio el gran día\n
+que es el pueblo paceño blasón.\n
+Celebremos con grata armonía\n
+de valientes y libres la unión.\n\n
+Los timbres de su fama,\n
+la América en un templo\n
+conserva como ejemplo\n
+de honor y de virtud.\n\n
+Y al fuego que la inflama,\n
+su suelo viendo hollado,\n
+se inspira en el pasado\n
+su heroica juventud\n\n
+Coro:\n
+Saludando de julio el gran día\n
+que es el pueblo paceño blasón.\n
+Celebremos con grata armonía\n
+de valientes y libres la unión.\n\n
+
+Titánicos guerreros\n
+del cielo como gracia la invicta democracia\n
+nos dieron por pendón.\n\n
+Si alguno hollar sus fueros\n
+intenta en lo futuro,\n
+será de bronce un muro\n
+de América la unión.\n\n
+Coro:\n
+Saludando de julio el gran día\n
+que es el pueblo paceño blasón.\n
+Celebremos con grata armonía\n
+de valientes y libres la unión.\n\n
+De América al destino\n
+bendiga siempre el cielo\n
+que aquí en su noble suelo\n
+nació la libertad.\n\n
+Y admire quien hoy sueña\n
+tenernos por esclavos,\n
+de libres y de bravos\n
+la historia ya inmortal.\n\n
+Coro:\n
+Saludando de julio el gran día\n
+que es el pueblo paceño blasón.\n
+Celebremos con grata armonía\n
+de valientes y libres la unión.\n\n
+De unión la santa enseña\n
+de hoy, más el continente\n
+coloque allá en la frente\n
+del Andes colosal.\n\n
+Su cetro diamantino\n
+radiante en nuestras zonas\n
+deslumbre a las coronas\n
+que aún odian la igualdad.\n\n
+Coro:\n
+Saludando de julio el gran día\n
+que es el pueblo paceño blasón.\n
+Celebremos con grata armonía\n
+de valientes y libres la unión.\n\n
+
+</string>
+    <string name="main.pk4.cante">\n\nSurge “El Alto” tenaz,\n
+En constante vigor\n
+Forjador de esperanzas\n
+Sembrador de amistad.\n\n
+Ciudadanos cantad\n
+Este himno de amor;\n
+A la tierra bendita\n
+Que nos viera nacer.\n\n
+6 de Marzo es el día,\n
+Que en suave armonía alzamos la voz\n
+Recordando de la historia;\n
+Un hito de gloría con loas de amor.\n\n
+Alteños a cantar\n
+Con júbilo y fervor\n,
+A la tierra viril,\n
+A este suelo de Dios.\n\n
+Alteños hoy de pie,\n
+Juremos a una voz,\n
+O vencer o morir,\n
+Por “El Alto” feraz.\n\n
+
+</string>
+    <string name="main.pk5.cante">\n\nBrilla el sol de septiembre radiante,\n
+reflejando la gloria inmortal\n
+del gran pueblo que firme y constante\n
+fue el primero en la lucha marcial.\n\n
+Libertad de Tunari en la cumbre,\n
+ya su solio por siempre fijó;\n
+la cadena de vil servidumbre\n
+Cochabamba esforzada rompió.\n\n
+De sus hijos el noble ardimiento\n
+su altivez y denuedo sin par,\n
+despertaron el bélico aliento\n
+de cien pueblos que van a luchar.\n\n
+Coro:\n
+Brilla el sol de septiembre radiante,\n
+reflejando la gloria inmortal\n
+del gran pueblo que firme y constante\n
+fue el primero en la lucha marcial.\n\n
+
+Suena entonces el grito de gloria\n
+y se enciende la guerra por fin,\n
+Su jornada de eterna memoria\n
+son Aroma, Ayacucho y Junín.\n\n
+Sus proezas la fama pregona\n
+de una en otra apartada región,\n
+y sus timbres preclaros blasona,\n
+ley, deber, patriotismo y unión.\n\n
+Coro:\n
+Brilla el sol de septiembre radiante,\n
+reflejando la gloria inmortal\n
+del gran pueblo que firme y constante\n
+fue el primero en la lucha marcial.\n\n
+
+Nuestros padres tenaces lucharon\n
+anhelando un grandioso ideal;\n
+Y una patria feliz nos legaron,\n
+con el nombre de un héroe inmortal.\n\n
+Y ese nombre que el mundo venera,\n
+que es emblema de patria y honor,\n
+resplandece en su hermosa bandera,\n
+entre rayo de luz y esplendor.\n\n
+Coro:\n
+Brilla el sol de septiembre radiante,\n
+reflejando la gloria inmortal\n
+del gran pueblo que firme y constante\n
+fue el primero en la lucha marcial.\n\n
+
+Cochabamba la enseña bendita\n
+ya flamea, magnánima y fiel;\n
+el valor en su pecho palpita\n
+y en su frente se ostenta el laurel.\n\n
+Que el gran pueblo que habita\n
+esta tierra, siempre amena florida y\n
+feraz, es tremenda y terrible en la\n
+guerra, justiciero y clemente en la paz.\n
+
+</string>
+    <string name="main.pk6.cante">\n\nLa España grandiosa\n
+con hado benigno\n
+aquí plantó el signo\n
+de la redención.\n\n
+Y surgió en su sombra\n
+un pueblo eminente\n
+de límpida frente\n
+de leal corazón.\n\n
+Bajo el cielo más puro de América\n
+y en la tierra de Ñuflo de Chávez,\n
+libertad van trinando las aves\n
+de su veste ostentando el primor.\n
+De las flores del mundo galano\n
+su ambrosía perfumada ofreciendo\n
+libertad, libertad van diciendo\n
+en efluvios de paz y de amor.\n\n
+De entusiasmo y de fe rebosante\n
+venga el hombre y repita ese coro\n
+que en la tierra del árbol del oro\n
+siempre libre y feliz ha de ser.\n\n
+Que natura, con pródiga mano\n
+derramó en nuestro suelo sus dones,\n
+su grandeza, sus bellos florones\n
+sus mil fuentes de gloria y poder.\n\n
+Siempre libres, cruceños, seamos\n
+cual lo son nuestras aves y flores\n
+y sepamos vencer los rigores\n
+del que intente a la patria oprimir.\n\n
+Nuestros nombres en tal hora son sangre\n
+en la historia dejemos escrito,\n
+repitiendo de Warnes el grito:\n
+"A vencer o con gloria morir".\n
+
+
+</string>
+    <string name="main.pk7.cante">\n\nHogar seas bendito\n
+de paz y libertad,\n
+asilo del proscrito\n
+que lucha en la verdad.\n\n
+De Bolivia en el suelo fecundo\n
+el pendón del hogar se alza aquí,\n
+contemplad que ondea ante el mundo\n
+en la cima del gran Potosí.\n\n
+En la misma montaña en que hiciera,\n
+escalando con paso triunfal,\n
+tremolar nuestra patria bandera,\n
+de Bolívar el brazo inmortal.\n\n
+Cuando un tiempo la América bella\n
+sus cadenas forjó la maldad,\n
+de ti ¡oh pueblo! brotó la centella\n
+que primero escribió: Libertad.\n\n
+Fue un Ibáñez el mártir y el bravo\n
+que, retando el poder español,\n
+las tinieblas rasgó del esclavo\n
+como rasga las nubes el sol.\n\n
+Ahora ¡oh pueblo! que es tuyo el destino\n
+de luz del alba fulgura en tu sien,\n
+adelante, adelante... al camino\n
+digno atleta a luchar por el bien.\n\n
+Que aquí tengan la ley y el derecho\n
+el trabajo y virtud, noble altar,\n
+cuyo augusto dintel sepa el pecho\n
+como muro de bronce guardar.\n\n
+
+</string>
+    <string name="main.pk8.cante">\n\nVeinticinco de mayo en oriente\n
+del sol brilla en el carro triunfal.\n
+Deja ¡oh! Charcas que irradie en tu frente\n
+de la gloria el laurel inmortal.\n\n
+Libertad, libertad es el grito\n
+que se escucha doquier resonar\n
+de las grietas andinas al llano\n
+y del llano a las ondas del mar.\n\n
+A la luz sonrosada de oriente\n
+que acaricia tu sien virginal\n
+alza ¡oh Charcas! dichosa la frente\n
+y recuerda tu gloria inmortal.\n\n
+El pampero le lleva en sus alas\n
+hasta el antro en que ruge el jaguar\n
+y en las rocas los nidos de cóndores\n
+se estremecen al oírle vibrar.\n\n
+Libertad, libertad y descienden\n
+las legiones al campo a luchar,\n
+y sucumben los héroes clamando:\n
+"Nuestra vida por ti, libertad".\n\n
+Vencedoras las huestes altivas\n
+forman pueblos, familia y hogar\n
+y en el cielo dibujase el iris,\n
+que cobija su dulce heredad.\n
+</string>
+    <string name="main.pk9.cante">\n\nCuando irradia el fulgor de la aurora\n
+al morir en la tierra de capuz,\n
+todo el mundo de pie te saluda\n
+porque nace en tus cumbres la luz.\n\n
+El Sajama es el trono sublime\n
+do se asienta la hermosa deidad,\n
+la que vino radiante del cielo,\n
+coronada de luz y libertad.\n\n
+Pagador, el titán de los Andes\n
+ante quien humillóse el león,\n
+como Dios separando tinieblas\n
+con su genio forjó otra creación.\n\n
+Él, también en el mar de la vida\n
+cual Colón otro mundo nos da:\n
+Libertad, que es el mundo bendito\n
+donde vive feliz el mortal.\n\n
+
+</string>
+    <string name="main.pk10.cante">\n\nTarijeños, la fama pregona\n
+nuestra gloría y heroico valor;\n
+bravos hijos de Méndez nos llaman\n
+de la patria, el orgullo y honor.\n
+De los héroes del quince de abril\n
+tremolemos el bello pendón\n
+y llevamos la noble divisa:\n
+patria, ley, libertad, religión.\n\n
+Ni tiranos ni déspotas nunca\n
+nuestro orgullo podrán abatir;\n
+somos libres y a ser iay! esclavos,\n
+preferimos mil veces morir.\n\n
+Somos libres, cual libre es el cóndor\n
+que el espacio recorre veloz;\n
+tarijeños, más rey no tenemos\n
+en la tierra y el cielo que Dios.\n\n
+Sólo amamos la industria, el trabajo\n
+dulces bienes que brinda la paz;\n
+con amor para todos, con odio\n
+para nadie en el pedio jamás.\n\n
+De Tarija, la estrella algún día\n
+brillará con más vivo fulgor;\n
+entre tanto a la patria cantemos\n
+dulces himnos de paz y de amor.\n\n
+La alba, sien de Tarija se ostenta,\n
+coronada de verde laurel,\n
+y el escudo que España le diera\n
+con su lema: "Muy leal y muy fiel".\n
+</string>
+    <string name="main.pk11.cante">\n\nCanto victorioso pueblo de leyenda,\n
+tu himno de trabajo, libertad y unión;\n
+y en misterioso rumor de su selva,\n
+con eco vibrante suena tu canción.\n\n
+El verde que flamea en mi bandera,\n
+emblema de esperanza y de grandeza,\n
+es la imagen del Beni, la riqueza\n
+de esta tierra feliz de promisión.\n\n
+Y como el sol que surge en el oriente\n
+e ilumina los llanos y la sierra,\n
+será para Bolivia nuestra tierra,\n
+promesa de ventura, paz y unión.\n\n
+Si la ambición bastarda de un vecino\n
+humillar a mi patria pretendiera\n
+bajo el verde listón de mi bandera\n
+iremos con orgullo a combatir.\n\n
+Y nuestro himno de paz y trabajo,\n
+tornárase en rugido de venganza\n
+y, puesta en la victoria la esperanza,\n
+gritaremos ser libres o morir.\n\n
+
+
+</string>
+    <string name="main.pk12.cante">\n\nTierra santa vestida de gloria,\n
+en tus venas hay sangre de sol.\n
+Ahora es tuya por siempre la historia,\n
+aunque doble y redoble el tambor.\n\n
+En tus cinco provincias unidas\n
+suena el yunque de tu corazón.\n
+Jamás ellas podrán ser vencidas\n
+ni humilladas al son del cañón.\n\n
+Tahuamanu...¡Abuná...! Centinelas\n
+afilando el clarín de su voz.\n
+Manuripi, un brochazo de estrellas\n
+sobre el lienzo del Madre de Dios.\n
+Todos juntos, la paz levantemos\n
+sin temor de paisajes ni edad.\n
+Y a los cuatro horizonte cantemos\n
+libertad... libertad... libertad...!\n\n
+El jardín de las flores es Pando,\n
+su riqueza es de bosques y cristal,\n
+donde el hombre defiende sangrando\n
+palmo a palmo el honor nacional.\n\n
+
+
+</string>
+    <string name="main.pk13.cante">\n\n¡Adelante bolivianos!\n
+Marchemos hacia el mar\n
+que la patria nos reclama\n
+el cautivo Litoral.\n
+ 
+Todo anhelo y esperanza\n
+es volver a nuestro mar,\n
+que pronto tendrá Bolivia\n
+otra vez su mar, su mar.\n\n
+ 
+Antofagasta boliviana,\n
+Tocopilla, Mejillones y Taltal,\n
+con Cobija y Calama\n
+otra vez volverán.\n\n
+ 
+Antofagasta boliviana,\n
+Tocopilla, Mejillones y Taltal,\n
+con Cobija y Calama\n
+otra vez volverán.\n\n
+
+
+</string>
+    <string name="main.pk14.cante">\n\nLa victoria grandiosa de julio\n
+en el alma del pueblo vibró\n
+nueva vida, nuevos hechos\n
+a Bolivia una gloria le dio.\n\n
+ 
+Y Murillo mostró ante el mundo\n
+el coraje que su alma asombró,\n
+y la luz de su tea bendita\n
+a los pueblos de América alumbró.\n\n
+ 
+Desde entonces somos libres,\n
+bajo un cielo sin igual\n
+entonando por doquiera\n
+la gloriosa epopeya inmortal.\n\n
+ 
+Cuando el viento del Illimani\n
+bata a ritmo nuestro pendón,\n
+¡Oh!, cantemos a Murillo\n
+esta noble y sentida canción!\n\n
+
+</string>
+    <string name="main.pk15.cante">\n\nEs el canto guerrero de gloria,\n
+que se escucha en lejano confín,\n
+es la voz del clarín de victoria\n
+de Pichincha, Ayacucho y Junín.\n\n
+Como rayo de viva centella,\n
+su figura resplandece en la cumbre;\n
+desde el cielo de un mundo destella\n
+el fulgor de su genio de lumbre.\n\n
+En las lides poeta y soldado,\n
+con su acero la lira vibró.\n
+Y si ante Eros postróse admirado,\n
+Marte altivo su sien coronó.\n\n
+Coro:\n
+De Bolívar, la memoria,\n
+para siempre vivirá\n
+en las fojas de la historia\n
+que su espada gloriosa escribió.\n\n
+¡Libertad! fue su grito guerrero\n
+¡Libertad! con su espada selló\n
+y al empuje de su límpido acero\n
+cinco pueblos del yugo salvó.\n\n
+Del Illampu al sin par Tequendama,\n
+en su gesto sublime de Atlante,\n
+en el carro triunfal de la fama\n
+llevó siempre su enseña adelante.\n\n
+Cual tormenta de fuego que arrasa,\n
+abatió de Castilla el pendón,\n
+y del gran Manco Kapac la raza\n
+de tres siglos cantó redención.\n\n
+Coro:\n
+De Bolívar, la memoria,\n
+para siempre vivirá\n
+en las fojas de la historia\n
+que su espada gloriosa escribió.\n\n
+
+</string>
+    <string name="main.pk16.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk17.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk18.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk19.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk20.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk21.cante">I\n
+Bolivianos, el hado propicio\n
+coronó nuestros votos y anhelo;\n
+es ya libre, ya libre este suelo,\n
+ya cesó su servil condición.\n\n
+Al estruendo marcial que ayer fuera,\n
+y al clamor de la guerra horroroso,\n
+siguen hoy en contraste armonioso,\n
+dulces himnos de paz y de unión.\n\n
+Coro:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n\n
+II\n
+Loor eterno a los bravos guerreros,\n
+cuyo heroico valor y firmeza\n
+conquistaron las glorias que empieza\n
+hoy Bolivia feliz a gozar.\n\n
+Que sus nombres el mármol y el bronce\n
+a remotas edades transmitan\n
+y en sonoros cantares repitan:\n
+Libertad, libertad, libertad.\n\n
+Coro:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n\n
+III\n
+Aquí alzó la justicia su trono,\n
+que la vil opresión desconoce,\n
+y en su timbre glorioso se goce\n
+libertad, libertad, libertad.\n\n
+Esta tierra inocente y hermosa\n
+que ha debido a Bolívar su nombre\n
+es la patria feliz donde el hombre\n
+goza el bien de la dicha y la paz.\n\n
+Coro:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n\n
+IV\n
+Si extranjero poder algún día\n
+sojuzgar a Bolivia intentare,\n
+al destino fatal se prepare\n
+que amenaza a soberbio invasor.\n
+Que los hijos del grande Bolívar\n
+han ya mil y mil veces jurado\n
+morir antes que ver humillado\n
+de la patria el augusto pendón.\n
+Coro:\n
+De la patria, el alto nombre\n
+en glorioso esplendor conservemos\n
+y en sus aras de nuevo juremos\n
+¡Morir antes que esclavos vivir!\n\n
+</string>
+    <string name="main.pk22.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk23.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk24.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk25.cante">11Sanos y fuertes la frente altiva,1
+Airosos marchemos con rítmico son;1
+Baña el sol nuestra tierra nativa1
+Vivo late el boliviano corazón.11
+ 
+Por el deporte viril y fuerte1
+Patria haremos potente y unida;1
+Si inacción significa muerte1
+Solo el dinamismo es para la vida.1
+ 
+CORO:1
+Camaradería, vigor;1
+Lucha caballeresca, valor;1
+¡Adelante!, ¡Adelante!,1
+Deportistas: ¡Adelante! (Bis)1
+
+</string>
+    <string name="main.pk26.cante">\n\nTrabajemos, trabajemos,\n
+no hay tregua en la labor,\n
+trabajemos, trabajemos\n
+que el trabajo es la ley de Dios.\n\n
+ 
+No le detengas, dale sin reposo\n
+luz a la mente y la mano acción.\n
+Que es el trabajo, la oración del fuerte\n
+y el pensamiento nos acerca a Dios.\n\n
+ 
+Trabajemos, trabajemos,\n
+no hay tregua en la labor,\n
+trabajemos, trabajemos\n
+que el trabajo es la ley de Dios.\n\n
+ 
+No se hicieron las manos para el ocio,\n
+ni es el cerebro máquina pueril.\n
+El trabajo y el orden te harán libre\n
+y el estudio te hará dueño de ti.\n
+ 
+Trabajemos, trabajemos,\n
+no hay tregua en la labor,\n
+trabajemos, trabajemos\n
+que el trabajo es la ley de Dios.\n\n
+
+
+</string>
+    <string name="main.pk27.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk28.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk29.cante">I\n
+Bolivianos, el hado propicio\n
+</string>
+    <string name="main.pk30.cante">\n\nUn canto de amistad,\n
+de buena vecindad,\n
+unidos nos tendrán eternamente.\n
+Por nuestra libertad,\n
+por nuestra lealtad,\n
+debemos de vivir gloriosamente.\n\n
+ 
+Un símbolo de paz\n
+alumbrará el vivir de\n
+todo el continente americano.\n
+Fuerza de optimismo,\n
+tuerza de hermandad,\n
+será este canto de buena vecindad.\n\n
+ 
+Argentina, Brasil y Bolivia,\n
+Colombia, Chile y Ecuador,\n
+Uruguay, Venezuela y Honduras,\n
+Guatemala y el Salvador,\n
+Costa Rica, Haití, Nicaragua\n
+Cuba y Paraguay.\n
+ 
+Norte América, México y Perú\n
+Santo Domingo y Panamá,\n
+son hermanos soberanos\n
+de la libertad. (Bis)\n
+
+
+</string>
+
+</resources>
